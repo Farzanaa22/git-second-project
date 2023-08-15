@@ -1,4 +1,4 @@
-package second.git;
+package git.tek;
 
 public class FirstClass {
 
